@@ -1,5 +1,5 @@
 //////////////////////////////////////////////////////////////////////////////////////////////////////////
-///// Author   : Latharani M K
+///// Author   : Renoji Rao C
 ///// Purpose  : The requirements for the log ingestor and the query interface to run in default port 3000
 ///// Date     : 18th-Nov-2023
 ///// Language : Golang
